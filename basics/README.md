@@ -10,3 +10,4 @@
 9-firstdirdeletion - Removes the empty directory /tmp/my_first_directory using rmdir.
 10-back - Changes the working directory to the previous one using cd -.
 11-lists - Lists all files (including hidden) in current, parent, and /boot directories in long format using ls -la . .. /boot.
+12-file_type - Uses the file command to print the type of /tmp/iamafile.
