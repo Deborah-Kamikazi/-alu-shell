@@ -9,3 +9,4 @@
 8-firstdelete - Deletes the file betty from /tmp/my_first_directory using rm.
 9-firstdirdeletion - Removes the empty directory /tmp/my_first_directory using rmdir.
 10-back - Changes the working directory to the previous one using cd -.
+11-lists - Lists all files (including hidden) in current, parent, and /boot directories in long format using ls -la . .. /boot.
