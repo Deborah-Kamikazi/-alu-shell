@@ -1,2 +1,1 @@
-0-current_working_directory prints the current working directory
-
+0 current working directory prints the current working directory
