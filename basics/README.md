@@ -4,3 +4,4 @@
 3-listfiles - Displays the contents of the current directory in long listing format using ls -l
 4-listmorefiles - Lists all contents of the current directory (including hidden files) in long format using ls -la
 5-listfilesdigitonly - Lists all contents (including hidden files) in long format with numeric user and group IDs using ls -lan
+6-firstdirectory - Creates a directory named my_first_directory inside /tmp/ using mkdir.
