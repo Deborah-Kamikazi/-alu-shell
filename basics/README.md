@@ -5,3 +5,4 @@
 4-listmorefiles - Lists all contents of the current directory (including hidden files) in long format using ls -la
 5-listfilesdigitonly - Lists all contents (including hidden files) in long format with numeric user and group IDs using ls -lan
 6-firstdirectory - Creates a directory named my_first_directory inside /tmp/ using mkdir.
+7-movethatfile - Moves the file betty from /tmp/ to /tmp/my_first_directory/ using mv.
