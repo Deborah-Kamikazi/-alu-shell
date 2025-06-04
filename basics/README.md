@@ -14,4 +14,5 @@
 13-symbolic_link - Creates a symbolic link named __ls__ in the current directory pointing to /bin/ls.
 14-copy_html - Copies .html files from the current directory to the parent directory, only if they are newer or do not exist in the parent directory, using cp -u
 15-lets_move - Moves all files starting with uppercase letters from the current directory to /tmp/u
-16-clean_emacs - Deletes all files ending with ~ in the current directory using rm *~..
+16-clean_emacs - Deletes all files ending with ~ in the current directory using rm *~.
+17-tree - Creates nested directories welcome/, welcome/to/, and welcome/to/school/ using mkdir -p welcome/to/school.
