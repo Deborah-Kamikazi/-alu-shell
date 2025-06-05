@@ -24,3 +24,5 @@ This script sets the mode of the file `hello` to match exactly the mode of the f
 This script adds execute permission to all subdirectories of the current directory for the owner, group, and others using `find` and `chmod
 ## 12-directory_permissions
 This script creates a directory named `my_dir` with `751` permissions using `mkdir -m 751 my_dir`.
+## 13-change_group
+This script changes the group ownership of the file `hello` to the group `school` using `chgrp school hello`.
