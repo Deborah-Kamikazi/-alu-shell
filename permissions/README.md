@@ -28,3 +28,6 @@ This script creates a directory named `my_dir` with `751` permissions using `mkd
 This script changes the group ownership of the file `hello` to the group `school` using `chgrp school hello`.
 ## 14-change_owner_and_group
 This script changes the owner to `vincent` and the group owner to `staff` for all files and directories in the current directory using `chown vincent:staff *`
+## 15-symbolic_link_permissions
+This script changes the owner and group of the symbolic link `_hello` to `vincent` and `staff` respectively, using `chown -h`.
+
