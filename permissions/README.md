@@ -19,4 +19,6 @@ This script sets the permissions of the file `hello` so that owner and group hav
 ## 9-John_Doe
 This script sets the permissions of the file `hello` to `-rwxr-x-wx` using `chmod 753 hello`.
 ## 10-mirror_permissions
-This script sets the mode of the file `hello` to match exactly the mode of the file `olleh` using `chmod --reference=olleh hello`.
+This script sets the mode of the file `hello` to match exactly the mode of the file `olleh` using `chmod --reference=olleh hello`
+## 11-directories_permissions
+This script adds execute permission to all subdirectories of the current directory for the owner, group, and others using `find` and `chmod`
