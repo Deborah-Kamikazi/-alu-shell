@@ -26,3 +26,5 @@ This script adds execute permission to all subdirectories of the current directo
 This script creates a directory named `my_dir` with `751` permissions using `mkdir -m 751 my_dir`.
 ## 13-change_group
 This script changes the group ownership of the file `hello` to the group `school` using `chgrp school hello`.
+## 14-change_owner_and_group
+This script changes the owner to `vincent` and the group owner to `staff` for all files and directories in the current directory using `chown vincent:staff *`
