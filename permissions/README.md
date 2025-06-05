@@ -13,4 +13,6 @@ This script adds execute permission to the owner of the file `hello` using `chmo
 ## 6-multiple_permissions
 This script adds execute permission to the owner and group, and read permission to others on the file `hello` using `chmod ug+x,o+r hello`.
 ## 7-everybody
-This script adds execute permission to the owner, group, and others on the file `hello` using `chmod ugo+x hello` without commas.I
+This script adds execute permission to the owner, group, and others on the file `hello` using `chmod ugo+x hello` without commas.
+## 8-James_Bond
+This script sets the permissions of the file `hello` so that owner and group have no permissions, and others have all permissions, using numeric mode `chmod 007 hello`.
