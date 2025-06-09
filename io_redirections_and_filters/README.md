@@ -6,3 +6,5 @@ This script prints a confused smiley face: "(Ôo)' to the standard output.
 This script prints the contents of the `/etc/passwd` file using `cat`.
 ## 3-twofiles
 This script prints the contents of both `/etc/passwd` and `/etc/hosts` using `cat`.
+### 4-lastlines
+This script displays the last 10 lines of the `/etc/passwd` file using the `tail` command.
