@@ -16,3 +16,5 @@ This script displays the third line of a file named `iacta` located in the curre
 This script creates a file named `*\'"Best School"\'\*$?*****:)` containing the text "Best School" followed by a newline.
 ## 8-cwd_state
 This script writes the output of `ls -la` into the file `ls_cwd_content`.
+## 9-duplicate_last_line
+This script duplicates the last line of the file `iacta` by reading the last line and appending it to the end of the same file.
