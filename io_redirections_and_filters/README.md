@@ -14,3 +14,5 @@ This script displays the first 10 lines of the `/etc/passwd` file using the `hea
 This script displays the third line of a file named `iacta` located in the current directory, using `head` and `tail`.
 ## 7-file
 This script creates a file named `*\'"Best School"\'\*$?*****:)` containing the text "Best School" followed by a newline.
+## 8-cwd_state
+This script writes the output of `ls -la` into the file `ls_cwd_content`.
