@@ -10,3 +10,5 @@ This script prints the contents of both `/etc/passwd` and `/etc/hosts` using `ca
 This script displays the last 10 lines of the `/etc/passwd` file using the `tail` command.
 ## 5-firstlines
 This script displays the first 10 lines of the `/etc/passwd` file using the `head` command.
+## 6-third_line
+This script displays the third line of a file named `iacta` located in the current directory, using `head` and `tail`.
