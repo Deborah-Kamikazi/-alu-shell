@@ -25,3 +25,6 @@ Counts all directories and subdirectories (including hidden ones) in the current
 ## 12-newest_files  
 Displays the 10 most recently modified regular files in the current directory, sorted from newest to oldest.  
 One file is shown per line. Directories are excluded from the output.
+## 13-unique  
+Takes a list of words (one per line) from standard input and prints only the words that appear exactly once.  
+The output is sorted alphabetically, one word per line.
