@@ -20,3 +20,5 @@ This script writes the output of `ls -la` into the file `ls_cwd_content`.
 This script duplicates the last line of the file `iacta` by reading the last line and appending it to the end of the same file.
 ## 10-no_more_js
 Deletes all regular `.js` files (not directories) from the current directory and its subfolders.
+## 11-directories
+Counts all directories and subdirectories (including hidden ones) in the current directory, excluding the current (.) and parent (..) directories.
