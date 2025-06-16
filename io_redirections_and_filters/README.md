@@ -28,3 +28,5 @@ One file is shown per line. Directories are excluded from the output.
 ## 13-unique  
 Takes a list of words (one per line) from standard input and prints only the words that appear exactly once.  
 The output is sorted alphabetically, one word per line.
+## 14-findthatword  
+Displays all lines from the file `/etc/passwd` that contain the pattern "root".
