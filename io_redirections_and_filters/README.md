@@ -30,3 +30,5 @@ Takes a list of words (one per line) from standard input and prints only the wor
 The output is sorted alphabetically, one word per line.
 ## 14-findthatword  
 Displays all lines from the file `/etc/passwd` that contain the pattern "root".
+### 15-countthatword
+This script counts the number of lines in the /etc/passwd file that contain the word "bin".
