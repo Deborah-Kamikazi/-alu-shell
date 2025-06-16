@@ -22,3 +22,6 @@ This script duplicates the last line of the file `iacta` by reading the last lin
 Deletes all regular `.js` files (not directories) from the current directory and its subfolders.
 ## 11-directories
 Counts all directories and subdirectories (including hidden ones) in the current directory, excluding the current (.) and parent (..) directories.
+## 12-newest_files  
+Displays the 10 most recently modified regular files in the current directory, sorted from newest to oldest.  
+One file is shown per line. Directories are excluded from the output.
