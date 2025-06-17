@@ -36,3 +36,5 @@ This script counts the number of lines in the /etc/passwd file that contain the 
 This script displays all lines in the /etc/passwd file that contain the pattern "root", along with the three lines that follow each match. 
 ##17  
 This script displays all lines in the /etc/passwd file that do not contain the pattern "bin".
+##18  
+This script displays all lines of the /etc/ssh/sshd_config file that start with a letter, including both uppercase and lowercase letters.
