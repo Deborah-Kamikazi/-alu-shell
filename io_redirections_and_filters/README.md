@@ -34,3 +34,5 @@ Displays all lines from the file `/etc/passwd` that contain the pattern "root".
 This script counts the number of lines in the /etc/passwd file that contain the word "bin".
 ##16
 This script displays all lines in the /etc/passwd file that contain the pattern "root", along with the three lines that follow each match. 
+##17  
+This script displays all lines in the /etc/passwd file that do not contain the pattern "bin".
