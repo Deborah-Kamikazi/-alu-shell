@@ -48,3 +48,5 @@ This script reverses the input texi.
 This script displays all users and their home directories from the /etc/passwd file, sorted by usernameis.
 ##23  
 This script displays all empty files and directories in the current directory and its subdirectories. Only the names (not full paths) are shown, including hidden ones, and one entry per line.
+##24
+This script lists all regular .gif files in the current directory and all its subdirectories
