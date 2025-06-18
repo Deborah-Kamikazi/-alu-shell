@@ -43,4 +43,6 @@ This script replaces all characters A and c from the input with Z and e respecti
 ##20  
 This script removes all letters c and C from the input.
 ##21  
-This script reverses the input tex.
+This script reverses the input texi.
+##22  
+This script displays all users and their home directories from the /etc/passwd file, sorted by usernames.
