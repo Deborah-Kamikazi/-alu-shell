@@ -45,4 +45,6 @@ This script removes all letters c and C from the input.
 ##21  
 This script reverses the input texi.
 ##22  
-This script displays all users and their home directories from the /etc/passwd file, sorted by usernames.
+This script displays all users and their home directories from the /etc/passwd file, sorted by usernameis.
+##23  
+This script displays all empty files and directories in the current directory and its subdirectories. Only the names (not full paths) are shown, including hidden ones, and one entry per line.
