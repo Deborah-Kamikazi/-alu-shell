@@ -38,3 +38,5 @@ This script displays all lines in the /etc/passwd file that contain the pattern 
 This script displays all lines in the /etc/passwd file that do not contain the pattern "bin".
 ##18  
 This script displays all lines of the /etc/ssh/sshd_config file that start with a letter, including both uppercase and lowercase letters.
+##19  
+This script replaces all characters A and c from the input with Z and e respectively.
