@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Kills the 7-highlander process
+
+ps -eo pid,cmd | grep "[7]-highlander" | awk '{print $1}' | xargs kill
